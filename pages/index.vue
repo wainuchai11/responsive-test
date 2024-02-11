@@ -120,7 +120,7 @@ export default {
         {
           number: '02',
           title: 'COLLABORATION',
-          desc: 'Work with other student athletes to  increase visability. When you share and like other players videos it will increase your visability as a player. This is the team work aspect to Surface 1.',
+          desc: 'Work with other student athletes to increase visability. When you share and like other players videos it will increase your visability as a player. This is the team work aspect to Surface 1.',
           background: '#F5F4F9',
           dark: false
         },
@@ -310,7 +310,8 @@ export default {
 
   .text-header {
     display: flex;
-    justify-content: start;;
+    justify-content: start;
+    ;
     margin: 0;
     font-size: 50px;
     font-weight: 400;
